@@ -1,0 +1,31 @@
+body .card {
+  border: 3px solid black;
+}
+
+body .card .card-header {
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  font-family: fira code, monospace;
+}
+
+body .fz {
+  font-size: medium;
+  font-family: fira code, monospace;
+  width: 100px;
+}
+
+body input {
+  font-family: fira code, monospace;
+}
+
+body .jumbotron {
+  border: 3px solid black;
+}
+
+body .jumbotron .sbg {
+  width: 150px;
+  height: 150px;
+  border: 3px solid black;
+}
+/*# sourceMappingURL=main.css.map */

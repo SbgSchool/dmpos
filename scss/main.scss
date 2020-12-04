@@ -1,0 +1,30 @@
+$border: 3px solid black;
+$fira-code: fira code, monospace;
+
+body {
+  .card {
+    border: $border;
+    .card-header {
+      background-color: black;
+      color: white;
+      font-size: 20px;
+      font-family: $fira-code;
+    }
+  }
+  .fz {
+    font-size: medium;
+    font-family: $fira-code;
+    width: 100px;
+  }
+  input {
+    font-family: $fira-code;
+  }
+  .jumbotron {
+    border: $border;
+    .sbg {
+      width: 150px;
+      height: 150px;
+      border: $border;
+    }
+  }
+}
